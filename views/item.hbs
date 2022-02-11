@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <style>
+    body {background : #F5FFFA; }
+    r {color: #663399 ; }
+    div {
+      background-color: lightblue;
+      width: 200px;
+      border: 10px solid lightgreen;
+      padding: 5px;
+      margin: 5px;
+    }
+    t {color: #B66666;}
+
+  </style>
+	<meta charset="utf-8">
+</head>
+
+<body>
+	{{> header}}
+	<h1><b>New Item Added!</b></h1>
+  <div><b><u> {{title}} </u></b><br/> Calories: {{calories}} </div>
+  <form action = "/singleLog" method = "get">
+    <input type = "hidden" name = "day" value ={{date}}>
+    <input type = "submit" value = "View Today's Log">
+  </form>
+  <hr/>
+  <h2>Add Another Item</h2>
+  <form action = "/addItem" method = "get">
+    Food title: <input type = "text" name = "title" required /><br>
+    Estimated calories: <input type = "number" min = "0" name = "calories" required/><br>
+    <input type = "hidden" name = "date" value = {{date}}>
+    <input type = "submit" value = "Add">
+  </form>
+  <hr/><br>
+  <button><a href="/index">Return home<a></button>
+
+</body>
+
+</html>

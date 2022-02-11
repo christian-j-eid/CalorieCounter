@@ -1,0 +1,34 @@
+{
+  "name": "caloriecounter",
+  "version": "2.0.0",
+  "description": "",
+  "main": "caloriecounter.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "expect": "^26.6.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "fs": "^0.0.1-security",
+    "hbs": "^4.1.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.11",
+    "morgan": "^1.10.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1",
+    "path": "^0.12.7",
+    "rotating-file-stream": "^2.1.3",
+    "supertest": "^6.0.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.0"
+  },
+  "scripts": {
+    "test": "mocha \"./{,!(node_modules)/**/}*.test.js\"",
+    "start" : "node web/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

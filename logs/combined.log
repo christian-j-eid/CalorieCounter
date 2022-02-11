@@ -1,0 +1,363 @@
+{"message":"Successful login by a user","level":"info","timestamp":"2020-11-02T04:09:50.415Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T04:09:52.512Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T04:09:52.513Z"}
+{"message":"A list of 2 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T04:09:53.902Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T04:10:00.606Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T04:10:00.607Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T04:10:08.062Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T04:10:08.090Z"}
+{"message":"NEW DAY: 2020-11-06","level":"info","timestamp":"2020-11-02T04:10:08.090Z"}
+{"message":"ITEM ADDED: { _id: 5f9f86a05cba120eec316a7c,\n  name: 'Orange',\n  calories: 100,\n  date: '2020-11-06',\n  id: 'ceid',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T04:10:08.094Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:18:26.732Z"}
+{"message":"session expired","level":"error","timestamp":"2020-11-02T04:19:03.133Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:25:26.918Z"}
+{"message":"Successful login by a user","level":"info","timestamp":"2020-11-02T04:25:56.439Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T04:26:03.653Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:26:03.665Z"}
+{"message":"Unauthorized user attempted a login","level":"warning","timestamp":"2020-11-02T04:30:03.278Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T04:30:10.768Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T04:30:16.107Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T04:30:16.108Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:35:18.083Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T04:36:45.806Z"}
+{"message":"session expired","level":"error","timestamp":"2020-11-02T04:37:22.779Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:37:36.141Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:43:22.455Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:50:06.170Z"}
+{"message":"session expired","level":"error","timestamp":"2020-11-02T04:50:06.236Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:50:06.242Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:51:34.405Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:51:34.470Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:51:34.478Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:53:06.520Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:53:06.584Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:53:06.591Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:54:36.761Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:54:36.827Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:54:36.836Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T04:55:30.357Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:55:30.424Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:55:30.431Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:00:47.573Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:00:48.400Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:00:48.409Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:00:48.437Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:02:07.987Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:02:08.815Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:02:08.823Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:02:08.846Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:02:43.959Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:03:03.220Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:03:29.163Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:03:29.950Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:03:29.959Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:03:29.984Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:04:05.601Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:04:06.370Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T05:04:06.418Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T05:04:06.419Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:04:06.445Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:04:06.458Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:05:27.725Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:05:27.770Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:05:27.802Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:06:11.597Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:06:12.387Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:06:12.418Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:06:12.453Z"}
+{"message":"NEW DAY: undefined","level":"info","timestamp":"2020-11-02T05:06:12.453Z"}
+{"message":"ITEM ADDED: { _id: 5f9f93c4ad865b13f67b5f8e, id: 'ceid' }","level":"info","timestamp":"2020-11-02T05:06:12.456Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:06:12.460Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:06:12.471Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:06:46.466Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:06:46.487Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:06:46.540Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:07:50.787Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:07:51.575Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:07:51.625Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:07:51.637Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:11:44.926Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:11:45.728Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:11:46.245Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:11:46.269Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:11:46.283Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:11:46.294Z"}
+{"message":"NEW DAY: undefined","level":"info","timestamp":"2020-11-02T05:11:46.294Z"}
+{"message":"ITEM ADDED: { _id: 5f9f95122146f51417f13b72, id: 'ceid' }","level":"info","timestamp":"2020-11-02T05:11:46.296Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:11:46.301Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:12:56.679Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:12:57.448Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:12:57.965Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:12:57.992Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:12:58.008Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:12:58.019Z"}
+{"message":"NEW DAY: undefined","level":"info","timestamp":"2020-11-02T05:12:58.019Z"}
+{"message":"ITEM ADDED: { _id: 5f9f9559b895ae141b101f79, id: 'ceid' }","level":"info","timestamp":"2020-11-02T05:12:58.021Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:14:37.391Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:14:41.782Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:15:04.602Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:15:04.632Z"}
+{"message":"NEW DAY: 2020-11-01","level":"info","timestamp":"2020-11-02T05:15:04.632Z"}
+{"message":"ITEM ADDED: { _id: 5f9f95d8bd6aae14215b8ceb,\n  name: '123',\n  calories: 456,\n  date: '2020-11-01',\n  id: 'ceid',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T05:15:04.641Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:15:59.707Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:16:00.514Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:16:01.026Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:16:01.053Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:16:01.071Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:16:01.079Z"}
+{"message":"NEW DAY: undefined","level":"info","timestamp":"2020-11-02T05:16:01.079Z"}
+{"message":"ITEM ADDED: { _id: 5f9f96113b1465143066acdd, id: 'ceid' }","level":"info","timestamp":"2020-11-02T05:16:01.082Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:18:45.987Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:18:46.788Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:18:47.298Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:18:47.323Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:18:47.338Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:18:47.346Z"}
+{"message":"NEW DAY: undefined","level":"info","timestamp":"2020-11-02T05:18:47.346Z"}
+{"message":"ITEM ADDED: { _id: 5f9f96b7b86a94145269901b, id: 'ceid' }","level":"info","timestamp":"2020-11-02T05:18:47.349Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:18:47.357Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:31:36.324Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:31:37.121Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:31:37.172Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:32:17.142Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:33:15.418Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:35:29.534Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:35:33.349Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:37:45.330Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:37:48.783Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:38:19.258Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:38:25.196Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:38:43.392Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:38:47.350Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:39:14.302Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:39:14.317Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:39:26.826Z"}
+{"message":"A list of 3 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T05:39:37.978Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T05:39:37.978Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T05:39:39.879Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:39:46.163Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:39:46.179Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:41:05.938Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:41:06.755Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:41:07.276Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:41:07.296Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:41:07.302Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:41:50.443Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:41:51.226Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:41:51.745Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:41:51.767Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:41:51.784Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:43:20.081Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:43:20.918Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:43:21.442Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:43:21.463Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:43:21.468Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:03.244Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:46:04.023Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:46:04.039Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:32.554Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:46:33.346Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:46:33.864Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:46:33.884Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:46:33.890Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:44.217Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:46:45.011Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:45.017Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:46:45.024Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:49:41.121Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:49:41.929Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:49:42.448Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T05:49:42.473Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T05:49:42.497Z"}
+{"message":"NEW DAY: undefined","level":"info","timestamp":"2020-11-02T05:49:42.498Z"}
+{"message":"ITEM ADDED: { _id: 5f9f9df68753ee165cbe09f9, id: 'ceid' }","level":"info","timestamp":"2020-11-02T05:49:42.500Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:49:42.508Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:49:42.959Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:49:58.318Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:49:59.120Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:49:59.649Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:49:59.672Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:49:59.677Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:55:23.238Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:55:24.046Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:55:24.552Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:55:24.576Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:55:25.059Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:55:25.554Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:55:25.573Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:55:25.578Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:56:16.429Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:17.210Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:17.696Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:56:17.720Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:18.262Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:18.790Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:56:18.813Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:56:18.819Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:56:56.243Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:57.102Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:57.593Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:56:57.614Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:58.081Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:56:58.574Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:56:58.595Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:56:58.599Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:57:32.133Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:57:32.923Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:57:33.416Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:57:33.437Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:57:33.913Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T05:57:34.411Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T05:57:34.431Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:57:34.436Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T05:58:00.168Z"}
+{"message":"A user attempted to register with a previous username","level":"alert","timestamp":"2020-11-02T05:58:04.781Z"}
+{"message":"A new user was registered.","level":"info","timestamp":"2020-11-02T05:58:05.345Z"}
+{"message":"A new user was registered.","level":"info","timestamp":"2020-11-02T05:58:05.347Z"}
+{"message":"A new user was registered.","level":"info","timestamp":"2020-11-02T05:58:05.347Z"}
+{"message":"A new user was registered.","level":"info","timestamp":"2020-11-02T05:58:19.204Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:02:34.420Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:02:35.236Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:02:35.764Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:02:36.269Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:02:36.300Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:02:36.304Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:04:12.461Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:04:13.281Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:04:13.804Z"}
+{"message":"A list of 3 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:04:13.845Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:04:13.846Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:04:14.324Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:04:14.344Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:04:14.350Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:05:23.678Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:05:28.128Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:05:39.181Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:05:39.207Z"}
+{"message":"NEW DAY: 2020-11-02","level":"info","timestamp":"2020-11-02T06:05:39.208Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa1b317b05716d368d5e7,\n  name: 'test_food',\n  calories: 100,\n  date: '2020-11-02',\n  id: 'ceid',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:05:39.211Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:06:10.394Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:06:11.169Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:06:11.714Z"}
+{"message":"A list of 4 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:06:11.756Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:06:11.757Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:06:12.233Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:06:12.255Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:06:12.261Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:06:31.720Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:06:32.521Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:06:33.033Z"}
+{"message":"A list of 4 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:06:33.074Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:06:33.074Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:06:33.555Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:06:33.576Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:06:33.584Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:07:09.312Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:07:10.110Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:07:10.633Z"}
+{"message":"A list of 0 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:07:10.673Z"}
+{"message":"Attempting to print the log for a day with no food items","level":"error","timestamp":"2020-11-02T06:07:10.673Z"}
+{"message":"Attempting to calculate calories for a day with no food items","level":"error","timestamp":"2020-11-02T06:07:10.674Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:07:11.142Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:07:11.162Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:07:11.168Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:20:23.166Z"}
+{"message":"A new user was registered.","level":"info","timestamp":"2020-11-02T06:20:30.867Z"}
+{"message":"Successful login by a user: 123","level":"info","timestamp":"2020-11-02T06:20:34.498Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:20:41.922Z"}
+{"message":"A 'day' was updated in the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:20:41.977Z"}
+{"message":"DATE UPDATED: 2020-11-01","level":"info","timestamp":"2020-11-02T06:20:41.977Z"}
+{"message":"UPDATED WITH ITEM: { _id: 5f9fa5394ecdac1752a976dc,\n  name: 'orange',\n  calories: 100,\n  date: '2020-11-01',\n  id: '123',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:20:41.982Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:20:46.601Z"}
+{"message":"A 'day' was updated in the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:20:46.649Z"}
+{"message":"DATE UPDATED: 2020-11-01","level":"info","timestamp":"2020-11-02T06:20:46.650Z"}
+{"message":"UPDATED WITH ITEM: { _id: 5f9fa53e4ecdac1752a976dd,\n  name: 'cheese ',\n  calories: 200,\n  date: '2020-11-01',\n  id: '123',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:20:46.650Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:20:55.700Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:20:55.721Z"}
+{"message":"NEW DAY: 2020-11-25","level":"info","timestamp":"2020-11-02T06:20:55.721Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa5474ecdac1752a976de,\n  name: 'another ',\n  calories: 506,\n  date: '2020-11-25',\n  id: '123',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:20:55.721Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:20:58.417Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:20:58.417Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:21:01.316Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:21:01.316Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:21:03.871Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:21:03.871Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:21:04.635Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:21:13.101Z"}
+{"message":"A 'day' was updated in the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:21:13.142Z"}
+{"message":"DATE UPDATED: 2020-11-01","level":"info","timestamp":"2020-11-02T06:21:13.142Z"}
+{"message":"UPDATED WITH ITEM: { _id: 5f9fa5594ecdac1752a976e0,\n  name: 'orange',\n  calories: 100,\n  date: '2020-11-01',\n  id: '123',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:21:13.143Z"}
+{"message":"A list of 3 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:21:15.501Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:21:18.218Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:21:18.219Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:21:28.416Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:21:28.434Z"}
+{"message":"NEW DAY: 2020-11-03","level":"info","timestamp":"2020-11-02T06:21:28.434Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa5684ecdac1752a976e1,\n  name: 'dfasdf',\n  calories: 123,\n  date: '2020-11-03',\n  id: '123',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:21:28.435Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:21:31.270Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:21:31.270Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:22:42.423Z"}
+{"message":"A 'day' was updated in the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:22:42.468Z"}
+{"message":"DATE UPDATED: 2020-11-01","level":"info","timestamp":"2020-11-02T06:22:42.468Z"}
+{"message":"UPDATED WITH ITEM: { _id: 5f9fa5b24ecdac1752a976e3,\n  name: '34',\n  calories: 12,\n  date: '2020-11-01',\n  id: '123',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:22:42.468Z"}
+{"message":"A list of 4 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:22:43.533Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:22:47.950Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:22:47.951Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:23:07.345Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:23:07.345Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:23:26.729Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:23:26.729Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:23:38.619Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:23:38.634Z"}
+{"message":"Successful login by a user: ceid","level":"info","timestamp":"2020-11-02T06:23:42.463Z"}
+{"message":"A list of 4 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:23:43.751Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:23:43.751Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:23:56.605Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:23:56.625Z"}
+{"message":"NEW DAY: 2020-11-14","level":"info","timestamp":"2020-11-02T06:23:56.625Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa5fc4ecdac1752a976e4,\n  name: '123',\n  calories: 45,\n  date: '2020-11-14',\n  id: 'ceid',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:23:56.626Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:23:58.198Z"}
+{"message":"A list of 5 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:24:00.447Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:24:00.447Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:24:07.388Z"}
+{"message":"A 'day' was updated in the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:24:07.430Z"}
+{"message":"DATE UPDATED: 2020-11-01","level":"info","timestamp":"2020-11-02T06:24:07.431Z"}
+{"message":"UPDATED WITH ITEM: { _id: 5f9fa6074ecdac1752a976e6,\n  name: '56',\n  calories: 34,\n  date: '2020-11-01',\n  id: 'ceid',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:24:07.436Z"}
+{"message":"A list of 5 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:24:11.130Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:24:11.130Z"}
+{"message":"A user logged out","level":"info","timestamp":"2020-11-02T06:24:15.857Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:24:15.865Z"}
+{"message":"A new user was registered.","level":"info","timestamp":"2020-11-02T06:24:25.875Z"}
+{"message":"Successful login by a user: 2","level":"info","timestamp":"2020-11-02T06:24:28.611Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:24:35.443Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:24:35.467Z"}
+{"message":"NEW DAY: 2020-11-18","level":"info","timestamp":"2020-11-02T06:24:35.467Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa6234ecdac1752a976e8,\n  name: 'test',\n  calories: 45,\n  date: '2020-11-18',\n  id: '2',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:24:35.467Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:24:36.683Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:24:39.122Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:24:39.123Z"}
+{"message":"A list of 1 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:24:54.309Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:24:54.309Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:25:01.649Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:25:01.671Z"}
+{"message":"NEW DAY: 0001-12-03","level":"info","timestamp":"2020-11-02T06:25:01.673Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa63d4ecdac1752a976ea,\n  name: 'fasf',\n  calories: 23,\n  date: '0001-12-03',\n  id: '2',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:25:01.673Z"}
+{"message":"A list of 2 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:25:06.322Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:25:06.322Z"}
+{"message":"A user arrived to the website","level":"info","timestamp":"2020-11-02T06:26:50.408Z"}
+{"message":"Successful login by a user: 2","level":"info","timestamp":"2020-11-02T06:26:54.825Z"}
+{"message":"Improper date input by user","level":"warning","timestamp":"2020-11-02T06:27:04.738Z"}
+{"message":"A new item was added to the MongoDB 'fooditem' collection","level":"info","timestamp":"2020-11-02T06:27:12.329Z"}
+{"message":"A new day was added to the MongoDB 'days' collection","level":"info","timestamp":"2020-11-02T06:27:12.362Z"}
+{"message":"NEW DAY: 2020-11-05","level":"info","timestamp":"2020-11-02T06:27:12.363Z"}
+{"message":"ITEM ADDED: { _id: 5f9fa6c0a046f61811b3df84,\n  name: '43',\n  calories: 45,\n  date: '2020-11-05',\n  id: '2',\n  __v: 0 }","level":"info","timestamp":"2020-11-02T06:27:12.370Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:27:14.459Z"}
+{"message":"A list of 3 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:27:16.766Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:27:16.766Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:27:17.801Z"}
+{"message":"A list of 3 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:27:19.159Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:27:19.159Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:27:19.964Z"}
+{"message":"A list of 3 days was retrieved from the MongoDB 'days' collection.","level":"info","timestamp":"2020-11-02T06:27:21.853Z"}
+{"message":"A user is searching for a daily log","level":"info","timestamp":"2020-11-02T06:27:21.853Z"}
+{"message":"A list of 1 fooditems was retrieved from the MongoDB 'fooditems' collection.","level":"info","timestamp":"2020-11-02T06:27:22.945Z"}

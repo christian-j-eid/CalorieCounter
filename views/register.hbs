@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <style>
+    body {background : #F5FFFA; }
+    r {color: #663399 ; }
+    div {
+      background-color: #F5FFFA;
+      width: 200px;
+      border: 10px solid lightgreen;
+      padding: 5px;
+      margin: 5px;
+    }
+    t {color: #B66666;}
+
+  </style>
+	<meta charset="utf-8">
+</head>
+
+<body>
+  {{> header}}
+
+  <h1>
+    SignUp Page
+</h1>
+<form action="/register" method="POST">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username">
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password">
+    <label for="name">Firstname:</label>
+    <input type="text" id="name" name="name">
+
+
+    <button>Submit</button>
+</form>
+<ul>
+    <div><a href="/">Home</a></div>
+    <div><a href="/login">login</a></div>
+</ul>
+  <hr/>
+
+</body>
+{{> footer}}
+
+</html>

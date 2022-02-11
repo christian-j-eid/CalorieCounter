@@ -1,0 +1,58 @@
+{"message":"session expired","level":"error","timestamp":"2020-11-02T04:19:03.133Z"}
+{"message":"session expired","level":"error","timestamp":"2020-11-02T04:37:22.779Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:37:36.141Z"}
+{"message":"session expired","level":"error","timestamp":"2020-11-02T04:50:06.236Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:50:06.242Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:51:34.470Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:51:34.478Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:53:06.584Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:53:06.591Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:54:36.827Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:54:36.836Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T04:55:30.424Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T04:55:30.431Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:00:47.573Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:00:48.437Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:02:07.987Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:02:08.846Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:03:29.163Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:03:29.984Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:04:05.601Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:04:06.458Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:05:27.725Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:05:27.802Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:06:11.597Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:06:12.471Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:06:46.466Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:06:46.540Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:07:50.787Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:07:51.637Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:11:44.926Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:11:46.301Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:12:56.679Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:15:59.707Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:18:45.987Z"}
+{"message":"A user attempted to access a non-existent page","level":"error","timestamp":"2020-11-02T05:18:47.357Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:31:36.324Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:33:15.418Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:41:05.938Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:41:50.443Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:43:20.081Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:03.244Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:32.554Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:44.217Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:46:45.017Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:49:41.121Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:49:58.318Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:55:23.238Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:56:16.429Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:56:56.243Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T05:57:32.133Z"}
+{"message":"A user attempted to register with a previous username","level":"alert","timestamp":"2020-11-02T05:58:04.781Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:02:34.420Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:04:12.461Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:06:10.394Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:06:31.720Z"}
+{"message":"session expired/invalid","level":"error","timestamp":"2020-11-02T06:07:09.312Z"}
+{"message":"Attempting to print the log for a day with no food items","level":"error","timestamp":"2020-11-02T06:07:10.673Z"}
+{"message":"Attempting to calculate calories for a day with no food items","level":"error","timestamp":"2020-11-02T06:07:10.674Z"}

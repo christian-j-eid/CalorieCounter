@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {background-color: powderblue;}
+c {background-color: lightgreen;}
+a {text-decoration: none}
+input {background-color: #FFF0F5;}
+}
+</style>
+<head>
+	<title>{{pageTitle}}</title>
+</head>
+
+<body>
+	<h1>{{> header}}</h1>
+
+
+	<form method="get" action="/addItem">
+
+		Welcome. What would you like to do? <br>
+		<hr/>
+		<b>Log Calories </b><br>
+
+		Select Date: <input type = "date" name = "date" required>  <br/>
+		Food title: <input type = "text" name = "title" required /><br>
+		Estimated calories: <input type = "number" min = "0" name = "calories" required/><br>
+
+
+		<input type="reset">
+		<input type="submit" name="submitButton" value="Add"/>
+	</form>
+		<!-- <hr/><b>Add Recipe</b><br> -->
+			<form method="get" action = "/dailyLog">
+			<c><hr/><b>Check Daily Log</b><br></c>
+			<input type = "submit" name ="dailyLog" value ="View the Log">
+		</form>
+
+
+		<!-- <hr/><b>Check Monthly Log</b><br>
+		<hr/><b>Calculate Calories</b><br>
+		<hr/><b>Sweep Some Mines</b><br> -->
+
+
+
+	<!-- <form method="get" action="/addDaysCal">
+		<c><hr/><b>Add Calories for a Specific Day</b><br></c>
+		<input type = "date" name= "date" required>
+		<input type = "number" name = "cals" required>
+		<input type= "submit" name = "submitDaysCal" value = "Add Cals">
+	</form> -->
+
+	<!-- <form method="get" action="/calendar">
+		<c><hr/><b>View 2020 Calendar</b><br></c>
+		<input type = "number" name = "year" required>
+		<input type="submit" name = "submitCalendar" value = "View Yearly Calendar">
+	</form> -->
+
+
+
+
+	{{> footer}}
+	<button><a href="/logout">Logout<a></button>
+
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <style>
+    body {background : #F5FFFA; }
+    r {color: #663399 ; font-size: 20px;}
+    div {
+      background-color: lightblue;
+      width: 200px;
+      border: 10px solid lightgreen;
+      padding: 5px;
+      margin: 5px;
+    }
+    t {color: #B66666;}
+
+  </style>
+	<meta charset="utf-8">
+</head>
+
+<body>
+	{{> header}}
+	<h1><b>Daily Log</b></h1>
+  Select a date to view it's log.
+  {{dateDisplay}}
+  {{total}}
+   <br> </br>
+  {{fooditems}}
+
+  <hr/>
+
+
+  <button><a href="/index">Return home<a></button>
+
+</body>
+
+</html>

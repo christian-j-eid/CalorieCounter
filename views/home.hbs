@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <style>
+    body {background : #F5FFFA; }
+    r {color: #663399 ; }
+    div {
+      background-color: #F5FFFA;
+      width: 200px;
+      border: 10px solid lightgreen;
+      padding: 5px;
+      margin: 5px;
+    }
+    t {color: #B66666;}
+
+  </style>
+	<meta charset="utf-8">
+  <title>{{pageTitle}}</title>
+
+</head>
+
+<body>
+  	{{> header}}
+  <h1> Welcome</h1>
+<p><ul>
+  <div><a href="/login">Login</a></div>
+  <div><a href="/register">Register</a></div>
+  <div><a href="/logout">Logout</a></div>
+</ul></p>
+  <hr/>
+
+</body>
+{{> footer}}
+
+</html>
